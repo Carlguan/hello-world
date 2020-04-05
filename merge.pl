@@ -3,6 +3,7 @@
  
 	opendir (DIR, '.') or die "can't open dir, $!";
 	$SubDirNum = 0;
+#test
 	$SourceDirA_Name='01新词表/';
 	$SourceDirB_Name='02老词表/';
 	$TargetDir_Name='03整合词表/';
